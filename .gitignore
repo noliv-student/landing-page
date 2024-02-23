@@ -1,3 +1,4 @@
+ssh-key.txt
 # Node artifact files
 node_modules/
 dist/
